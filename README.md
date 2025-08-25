@@ -8,8 +8,8 @@ Additional reports are generated to show some features, see below.
 
 |Key feature|URL|
 |--|--|
-|A generic report|[https://allure-examples.github.io/allure3-xcresult/main])(https://allure-examples.github.io/allure3-xcresult/main)|
-|Two destinations (Mac OS, iOS)|[https://allure-examples.github.io/allure3-xcresult/destinations](https://allure-examples.github.io/allure3-xcresult/destinations)|
+|A generic report|[https://allure-examples.github.io/allure3-xcresult/main](https://allure-examples.github.io/allure3-xcresult/main)|
+|Two destinations (Mac&nbsp;OS, iOS)|[https://allure-examples.github.io/allure3-xcresult/destinations](https://allure-examples.github.io/allure3-xcresult/destinations)|
 |Three repetitions of each test|[https://allure-examples.github.io/allure3-xcresult/repetitions](https://allure-examples.github.io/allure3-xcresult/repetitions)|
 |Two test plans|[https://allure-examples.github.io/allure3-xcresult/testplans](https://allure-examples.github.io/allure3-xcresult/testplans)|
 |UI tests with screenshot capturing|[https://allure-examples.github.io/allure3-xcresult/ui-screenshots](https://allure-examples.github.io/allure3-xcresult/ui-screenshots)|
